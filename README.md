@@ -1,3 +1,19 @@
+# Intro to React JS
+
+## React Core Concepts: Components, Props, JSX
+
+![Alt text](public/images/ksnip_20230911-110452.png)
+
+![Alt text](public/images/ksnip_20230911-120909.png)
+
+![Alt text](public/images/ksnip_20230911-133208.png)
+
+![Alt text](public/images/ksnip_20230911-140918.png)
+
+![Alt text](public/images/ksnip_20230911-155926.png)
+
+![Alt text](public/images/ksnip_20230911-160657.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
