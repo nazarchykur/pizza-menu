@@ -140,6 +140,10 @@ function Footer() {
 
 function Pizza(props) {
   console.log(props);
+
+  // in case we wanna return nothing or just completely different
+  if (props.pizzaObj.soldOut) return null;
+
   return (
     <li className="pizza">
       <img src={props.pizzaObj.photoName} alt={props.pizzaObj.name} />
